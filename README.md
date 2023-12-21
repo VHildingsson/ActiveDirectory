@@ -9,7 +9,9 @@ I applied filters to SQL queries to get specific information on login attempts a
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>SQL</b> 
+- <b>SQL</b>
+- <b>LinuxOS CLI</b>
+- <b>Qwiklabs</b> 
 
 <h2>Environments Used </h2>
 
